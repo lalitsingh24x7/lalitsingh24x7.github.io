@@ -14,11 +14,3 @@ permalink: /about/
 
 
 ---
-
-## About Databrisk
-
-Databrisk is a platform focused on accelerating data engineering and analytics workflows. It empowers teams to build scalable, efficient, and reliable data pipelines using modern cloud technologies. At Databrisk, we are passionate about simplifying data infrastructure and enabling rapid innovation in the AI/ML space.
-
-Learn more soon!
-
-Feel free to connect or check out my projects!
