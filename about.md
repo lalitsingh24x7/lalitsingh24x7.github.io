@@ -27,4 +27,4 @@ Building a **LangGraph-based multi-agent data discovery platform** and deepening
 
 ### 📬 Get in Touch
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/lalitsingh24x7) or explore my work on [GitHub](https://github.com/lalitsingh24x7).
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/lalit-singh-04731a69/) or explore my work on [GitHub](https://github.com/lalitsingh24x7).
