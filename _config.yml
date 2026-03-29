@@ -1,10 +1,10 @@
 title: "Lalit Singh"
-author: "lalitsingh24x7 · he/him"
-description: "👋 Hi, I'm Lalit — Senior Data Engineer with 10+ years of experience in data and backend systems. AI/ML and GenAI enthusiast. Skilled in Python, AWS, PySpark."
+author: "Lalit Singh"
+description: "Senior Data Engineer · Python · PySpark · AWS · GenAI"
 theme: minima
-url: "https://lalitsingh24x7.github.io/lalit.github.io"
+url: "https://lalitsingh24x7.github.io"
 baseurl: ""
 markdown: kramdown
 plugins:
-	- jekyll-feed
-	- jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
