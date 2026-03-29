@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+title: "Lalit Singh"
+author: "lalitsingh24x7 · he/him"
+description: "👋 Hi, I'm Lalit — Senior Data Engineer with 10+ years of experience in data and backend systems. AI/ML and GenAI enthusiast. Skilled in Python, AWS, PySpark."
+theme: minima
+url: "https://lalitsingh24x7.github.io/lalit.github.io"
+baseurl: ""
+markdown: kramdown
+plugins:
+	- jekyll-feed
+	- jekyll-seo-tag
