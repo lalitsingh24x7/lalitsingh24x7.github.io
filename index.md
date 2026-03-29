@@ -5,9 +5,10 @@ title: Home
 
 ## 👋 Hi, I'm Lalit Singh
 
-**Senior Data Engineer** with 11+ years of experience building data platforms, backend systems, and AI/ML pipelines.
 
-Currently at **Publicis Sapient**, Noida — working on large-scale data platforms and GenAI applications.
+**Senior Data Engineer** with 11+ years of experience specializing in designing and building robust data pipelines, architecting scalable ETL workflows, and enabling advanced analytics and AI/ML solutions.
+
+Passionate about solving complex data challenges, optimizing data flows, and delivering reliable, high-quality data systems for business impact.
 
 ---
 
