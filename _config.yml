@@ -8,3 +8,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
